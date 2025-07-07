@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\soru6\bin\Debug\net8.0-windows\soru6.exe
+C:\Users\pc\source\repos\soru6\bin\Debug\net8.0-windows\soru6.deps.json
+C:\Users\pc\source\repos\soru6\bin\Debug\net8.0-windows\soru6.runtimeconfig.json
+C:\Users\pc\source\repos\soru6\bin\Debug\net8.0-windows\soru6.dll
+C:\Users\pc\source\repos\soru6\bin\Debug\net8.0-windows\soru6.pdb
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\soru6.Form1.resources
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\soru6.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\soru6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\soru6.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\soru6.AssemblyInfo.cs
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\soru6.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\soru6.dll
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\refint\soru6.dll
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\soru6.pdb
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\soru6.genruntimeconfig.cache
+C:\Users\pc\source\repos\soru6\obj\Debug\net8.0-windows\ref\soru6.dll
